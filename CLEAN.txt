@@ -1,0 +1,7 @@
+.vscode\launch.json
+neutralino.config.json
+package-lock.json
+package.json
+README.md
+resources\neutralinojs\index.html
+resources\neutralinojs\js\main.js

@@ -1,0 +1,21 @@
+netraalinojs
+==============
+neu run
+
+port - change to vite/vue running port
+
+
+VUE
+=====================
+npm run dev
+
+vite.config.js
+vue.config.js
+
+
+General
+==========
+resources - neutralinojs
+dist - VUE build
+public - VUE public
+src - VUE source files
